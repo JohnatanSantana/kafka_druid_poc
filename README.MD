@@ -4,11 +4,12 @@
 ### Realtime Analytics
 Use this stack for delivery real time analytics with Dashboards.
 
+
 ### To Do
-- [] Docker Images
-- [] Docker Compose
+- [X] Docker Images
+- [X] Docker Compose
 - [] Producer sent data to Kafka
-- [] Connect Druid To Kafka
+- [X] Connect Druid To Kafka
 - [] Superset Dashboard
 - [] Run Minikube
 
